@@ -1,0 +1,16 @@
+h1{
+    font-size: 40px;
+    position: absolute;
+    top: 20px;
+    left: 550px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(98, 179, 255);
+}
+.red{
+    position: relative;
+    font-size: 25px;
+    top: 20px;
+    left: 1200px;
+    text-decoration: underline;     
+    text-decoration-color: blue;
+}
